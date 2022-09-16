@@ -1,0 +1,4 @@
+2022-09-16 19:09:23,960 | INFO | 22: Everything is normal. Relax!
+2022-09-16 19:09:23,961 | WARNING | 23: Something unexpected but not important happend.
+2022-09-16 19:09:23,961 | ERROR | 24: Something unexpected and important happened.
+2022-09-16 19:09:23,961 | CRITICAL | 25: OMG!!! A critical error happend and the code cannot run!

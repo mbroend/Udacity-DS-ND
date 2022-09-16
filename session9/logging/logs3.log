@@ -1,0 +1,5 @@
+root - DEBUG - This is a debug message
+root - INFO - This is an info message
+root - WARNING - This is a warning message
+root - ERROR - This is an error message
+root - CRITICAL - This is a critical message
